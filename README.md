@@ -5,9 +5,9 @@
 </p>
 
 ## Sobre mí
-- 🧑‍💻 Soy estudiante de Matemáticas Aplicas & Computación. 
+- 🧑‍💻 Soy estudiante de Matemáticas Aplicadas & Computación. 
 - 🌱 Actualmente aprendiendo: algoritmos, robótica y ciencias de la computación.  
-- 📍 Ubicación: Mexico City  
+- 📍 Ubicación: Ciudad de México 
 - 🔭 Busco colaborar en proyectos y comunidades tecnológicas.
 
 ## Redes
