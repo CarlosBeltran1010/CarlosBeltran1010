@@ -1,9 +1,4 @@
 # ¡Hola! Soy Carlos 👋 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CarlosBeltran1010/CarlosBeltran1010/main/banner.png" alt="banner" width="100%" />
-</p>
-
 ## Sobre mí
 - 🧑‍💻 Soy estudiante de Matemáticas Aplicadas & Computación. 
 - 🌱 Actualmente aprendiendo: algoritmos, robótica y ciencias de la computación.  
