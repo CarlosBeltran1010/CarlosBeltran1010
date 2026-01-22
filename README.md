@@ -1,4 +1,4 @@
-# ¡Hola! Soy Carlos 👋 
+# ¡Hola! Soy Carlos Beltran 👋 
 ## Sobre mí
 - 🧑‍💻 Soy estudiante de Matemáticas Aplicadas & Computación. 
 - 🌱 Actualmente aprendiendo: algoritmos, robótica con Lego, ciencias de la computación e Inglés.  
