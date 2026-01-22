@@ -1,7 +1,7 @@
 # ¡Hola! Soy Carlos 👋 
 ## Sobre mí
 - 🧑‍💻 Soy estudiante de Matemáticas Aplicadas & Computación. 
-- 🌱 Actualmente aprendiendo: algoritmos, robótica y ciencias de la computación.  
+- 🌱 Actualmente aprendiendo: algoritmos, robótica con Lego, ciencias de la computación e Inglés.  
 - 📍 Ubicación: Ciudad de México 
 - 🔭 Busco colaborar en proyectos y comunidades tecnológicas.
 
